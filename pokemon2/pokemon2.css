@@ -1,0 +1,37 @@
+#Cindaquil {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#fuego {
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
+
+#Quilava {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#Typhlosion {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
