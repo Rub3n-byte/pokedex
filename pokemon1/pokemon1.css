@@ -1,0 +1,16 @@
+#Cindaquil {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#fuego {
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    background-color: red;
+    color: white;
+    width: fit-content;
+    margin: auto;
+}
