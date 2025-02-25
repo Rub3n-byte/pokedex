@@ -7,5 +7,9 @@ body {
     color: white;
     margin: auto;
     width: fit-content;
-    font-family: Shadows Into Light;
+    font-family: Pixelify Sans;
+}
+li {
+    -webkit-text-fill-color: white;
+    font-weight: bold;
 }
