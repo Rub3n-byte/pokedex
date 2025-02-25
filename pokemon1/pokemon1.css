@@ -12,9 +12,10 @@
     text-align: center;
     background-color: red;
     color: white;
-    width: fit-content;
-    margin: auto;
+    display: table;
+    margin: 0 auto;
 }
+
 #Quilava {
     text-align: center;
     color: black;
