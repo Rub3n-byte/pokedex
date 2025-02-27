@@ -2,10 +2,12 @@
     font-family: Pixelify Sans;
 }
 
+/* para que solo se aplique al index */
 #homepage {
     background-image: url("SMX2-M12-A11-Pokedex-imagenes/kanto-map.jpeg");
     background-size: cover;
 }
+/* para que solo se aplique al titulo del index */
 #tittle_center {
     text-align: center;
     background-color: gray;
@@ -19,17 +21,20 @@ li {
     font-weight: bold;
     font-size: 22px;
 }
+/* para que solo modifique a la pokedex y no a las demas fotos */
 #pokedex_img {
     width: 300px;
     height: auto;
     padding-left: 45px;
 }
 
+/* para que solo sean pequeñas las 4 fotos de la pokedex */
 .main {
     width: 100px;
     height: auto;
 }
 
+/* para que aplique a todas las fotos de las tablas */
 img {
     width: 250px;
     height: auto;
@@ -161,7 +166,8 @@ th, td {
     margin: 0 auto;
 }
 
-
+/* Responsive */
+/* Esta sección contiene estilos que aseguran que el sitio web sea responsivo y se adapte a diferentes tamaños de pantalla y dispositivos. */
 @media screen and (min-height: 1500px) and (min-width: 1200px) {
     body {
         background-image: url("SMX2-M12-A11-Pokedex-imagenes/kanto-map.jpeg");
