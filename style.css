@@ -1,3 +1,7 @@
+h1 h2 p span {
+    font-family: Pixelify Sans;
+}
+
 body {
     background-image: url("SMX2-M12-A11-Pokedex-imagenes/kanto-map.jpeg");
     background-size: cover;
