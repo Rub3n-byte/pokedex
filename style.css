@@ -20,6 +20,145 @@ img {
     height: auto;
 }
 
+img {
+    width: 500px;
+    height: auto;
+}
+#Cindaquil {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#fuego {
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
+
+#Quilava {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#Typhlosion {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+#gengar {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#fantasma {
+    background-color: #7A61A3;
+    color: white;
+    width: fit-content;
+}
+#veneno {
+    background-color: #B87EC8;
+    color: white;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
+
+#gastly {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#haunter {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+#mew {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#psicologico {
+    background-color: #7A61A3;
+    color: white;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+#rayquaza {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#volador {
+    background-color: #3DC6EF;
+    color: white;
+    width: fit-content;
+}
+#dragon {
+    background-color: #F16D56;
+    color: white;
+    width: fit-content;
+}
+.Volver_a_inicio {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: table;
+    margin: 0 auto;
+}
+
+
 @media screen and (min-height: 1500px) and (min-width: 1200px) {
     body {
         background-image: url("SMX2-M12-A11-Pokedex-imagenes/kanto-map.jpeg");
