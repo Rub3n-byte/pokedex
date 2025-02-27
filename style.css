@@ -2,7 +2,7 @@ h1 h2 p span {
     font-family: Pixelify Sans;
 }
 
-body {
+#homepage {
     background-image: url("SMX2-M12-A11-Pokedex-imagenes/kanto-map.jpeg");
     background-size: cover;
 }
@@ -19,12 +19,23 @@ li {
     font-weight: bold;
     font-size: 22px;
 }
-img {
+#pokedex_img {
+    width: 300px;
+    height: auto;
+    padding-left: 45px;
+}
+
+.main {
     width: 100px;
     height: auto;
 }
 
 img {
+    width: 250px;
+    height: auto;
+}
+
+.tabla {
     width: 500px;
     height: auto;
 }
@@ -66,10 +77,6 @@ th, td {
     text-align: center;
 }
 
-img {
-    width: 500px;
-    height: auto;
-}
 #gengar {
     text-align: center;
     color: black;
@@ -113,10 +120,6 @@ th, td {
     text-align: center;
 }
 
-img {
-    width: 500px;
-    height: auto;
-}
 #mew {
     text-align: center;
     color: black;
@@ -135,10 +138,6 @@ img {
     margin: 0 auto;
 }
 
-img {
-    width: 500px;
-    height: auto;
-}
 #rayquaza {
     text-align: center;
     color: black;
