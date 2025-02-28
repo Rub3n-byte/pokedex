@@ -15,6 +15,7 @@
     margin: auto;
     width: fit-content;
     font-family: Pixelify Sans;
+    font-size: 40px;
 }
 li {
     -webkit-text-fill-color: white;
